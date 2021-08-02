@@ -1,0 +1,33 @@
+.container{
+    margin-left: 40vh;
+}
+
+.wrapper{
+    display:flex;
+
+
+    background-color:  #7888ce;
+    border-radius: 8px;
+
+}
+
+.titleS{
+    display: flex;
+    margin-top: 10px;
+    margin-left:30px;
+
+
+    color: rgb(92, 92, 230);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.score{
+    position: absolute;
+    margin-top: 70px;
+    margin-left:30px;
+
+    color: rgb(0, 0, 0);
+    font-size: 13px;
+
+}

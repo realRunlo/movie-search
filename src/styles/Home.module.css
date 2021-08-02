@@ -1,0 +1,60 @@
+
+
+.tpRate{
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: 40vh;
+    
+}
+
+.notFound{
+    
+    
+    margin-top: 10px;
+    margin-left: 40vh;
+
+}
+.inputS{
+    font-size: 16px;
+    border:none;
+    background-color:transparent;
+    padding: 20px;
+    width: 100%;
+    
+    outline: none;
+    
+    
+}
+
+.wrapper{
+
+    display:flex;
+    align-items: center;
+
+    background-color:  #cccccc;
+    border-radius: 8px;
+    padding-left: 16px;
+    margin-top: 5px;
+    margin-left: 40vh;
+    margin-right: 40vh;
+
+}
+
+.icon{
+    height: 50px;
+}
+
+.searchButton{
+    padding: 20px;
+    height: 60px;
+    border-radius: 8px;
+
+
+
+}
+
+.found{
+    margin-top: 10px;
+    margin-left: 40vh;
+
+}
